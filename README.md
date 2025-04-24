@@ -1,1 +1,1 @@
-https://TwojDzien.github.io/happybirthday/index.html
+https://TwojDzien.github.io/Palina/happybirthday/index.html
