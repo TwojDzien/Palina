@@ -1,1 +1,1 @@
-https://TwojDzien.github.io/HBD/index.html
+https://TwojDzien.github.io/happybirthday/index.html
