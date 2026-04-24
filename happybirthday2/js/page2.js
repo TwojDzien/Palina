@@ -2,7 +2,7 @@ window.onload = function () {
   setTimeout(() => {
     document.getElementById("popup").style.display = "flex";
     document.getElementById("main").style.display = "none";
-  }, 5500);
+  }, 4500);
 };
 
 function showFlower() {
